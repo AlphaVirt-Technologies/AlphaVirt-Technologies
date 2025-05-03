@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AlphaVirt Technologies</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" href="assets/logo.png" />
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="AlphaVirt Logo" class="logo" />
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#services">Services</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>AlphaVirt Technologies</h1>
+    <p>Virtual Power. Real Results.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Website Design & Development - KSh 2000+</li>
+      <li>Social Media Branding - KSh 1000+</li>
+      <li>Logo Design - KSh 500+</li>
+      <li>Computer & Laptop Sales - Custom Quotes</li>
+      <li>AI Humanizer & Detection Consulting - KSh 3000+</li>
+      <li>Tech Research & Reporting - KSh 1500+</li>
+      <li>IT Consultancy & Networking Support - KSh 2500+</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>Who We Are</h2>
+    <p>AlphaVirt Technologies is a fresh, dynamic startup founded by Fredrick Ngatia, focused on empowering individuals and businesses through smart IT solutions powered by AI and innovation. From websites to branding, our goal is to deliver virtual power with real-world results.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:alphavirttechnologies@gmail.com">alphavirttechnologies@gmail.com</a></p>
+    <p>Call/WhatsApp: <a href="tel:+254712415272">0712415272</a></p>
+    <p>Direct Line: <a href="tel:+254795877041">0795877041</a></p>
+
