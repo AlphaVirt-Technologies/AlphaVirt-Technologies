@@ -1,16 +1,34 @@
-## Hi there 👋
+# AlphaVirt Technologies
 
-<!--
-**AlphaVirt-Technologies/AlphaVirt-Technologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Innovative IT solutions powered by AI** — specializing in web development, automation, and digital transformation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What We Do
+
+- ✅ Website Design & Development  
+- ✅ AI Integration & Automation  
+- ✅ Social Media Branding & Logo Design  
+- ✅ Tech Research & Reporting  
+- ✅ IT Consultancy & Network Support  
+- ✅ Computer & Laptop Sales (Custom Quotes)
+
+---
+
+### 📬 Contact Us
+
+- 📧 Email: [alphavirttechnologies@gmail.com](mailto:alphavirttechnologies@gmail.com)  
+- 📞 Call/WhatsApp: [0712 415272](tel:+254712415272)  
+- 📱 Direct Line: [0795 877041](tel:+254795877041)
+
+---
+
+### 🌐 Connect with Us
+
+- 🌍 Website: [Visit Site](https://github.com/AlphaVirt-Technologies/AlphaVirt-Technologies)  
+- 📘 Facebook: [facebook.com/alphavirttechnologies](https://www.facebook.com/alphavirttechnologies)  
+- 🎵 TikTok: [@alphavirttechnologies](https://www.tiktok.com/@alphavirttechnologies)
+
+---
+
+© 2025 AlphaVirt Technologies. All rights reserved.
